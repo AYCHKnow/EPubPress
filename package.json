@@ -42,7 +42,7 @@
         "nodepub": "github:haroldtreen/nodepub",
         "pg": "^7.14.0",
         "pg-hstore": "^2.3.3",
-        "pug": "^2.0.0",
+        "pug": "^3.0.1",
         "request": "^2.88.0",
         "request-promise": "^4.2.5",
         "sanitize-html": "^1.20.1",
