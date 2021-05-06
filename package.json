@@ -45,7 +45,7 @@
         "pug": "^2.0.0",
         "request": "^2.88.0",
         "request-promise": "^4.2.5",
-        "sanitize-html": "^1.20.1",
+        "sanitize-html": "^2.3.2",
         "sequelize": "^5.21.2",
         "serve-favicon": "^2.5.0",
         "shortid": "^2.2.15",
